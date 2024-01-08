@@ -1,0 +1,5 @@
+//To have a perfect view
+//Please download boostrap v5
+// Inside it contains the css and js folders.
+// Awesome fonts are also available for downloads please add them too.
+//rights to this project are reserved no copyright allowed.
